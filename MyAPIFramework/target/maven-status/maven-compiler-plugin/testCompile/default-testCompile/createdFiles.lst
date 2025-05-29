@@ -1,0 +1,4 @@
+com\api\base\AuthService.class
+com\api\base\BaseService.class
+com\api\models\request\LoginRequest.class
+com\api\models\response\LoginResponse.class
